@@ -6,11 +6,11 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vishxnu.Vishxnu&left_color=blueviolet&right_color=darksalmon"  />
+<p align="left">🌱 I’m currently learning Python for Data Science (Pandas, NumPy, Matplotlib) - SQL for Data Analytics - R for Statistical Modeling - Machine Learning using Scikit-learn - Power BI & Tableau for Data Visualization<br><br>👯 I’m looking to collaborate on Open-source Data Analysis Projects,Building Machine Learning Models for Real-world HR/Marketing Data<br><br>💬 Ask me about Python for Beginners - Data Cleaning & Preprocessing - Visualizing Data with Matplotlib/Seaborn - HR Tech, Offboarding Insights, and Employer Branding<br><br>📫 How to reach me - vishnuskillx@gmail.com<br><br>⚡ Fun fact I'm a Gamer & I find patterns not just in data, but also in people 😉</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning Python for Data Science (Pandas, NumPy, Matplotlib) - SQL for Data Analytics - R for Statistical Modeling - Machine Learning using Scikit-learn - Power BI & Tableau for Data Visualization<br><br>👯 I’m looking to collaborate on Open-source Data Analysis Projects,Building Machine Learning Models for Real-world HR/Marketing Data<br><br>💬 Ask me about Python for Beginners - Data Cleaning & Preprocessing - Visualizing Data with Matplotlib/Seaborn - HR Tech, Offboarding Insights, and Employer Branding<br><br>📫 How to reach me - vishnuskillx@gmail.com<br><br>⚡ Fun fact I'm a Gamer & I find patterns not just in data, but also in people 😉</p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vishxnu.Vishxnu&left_color=blueviolet&right_color=darksalmon"  />
 
 ###
 
@@ -68,4 +68,12 @@
 
 ###
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph.svg">
+</picture>
+
+###
