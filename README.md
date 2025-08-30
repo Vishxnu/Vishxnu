@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500">
+</div>
+<br></br>
 <h1 align="center">Hey Everyone🙋‍♂️, I'm Vishnu Raj</h1>
 
 ###
 
-<h2 align="center">A Curious and Passionate Upcoming Data Analyst</h2>
+<h1 align="center">A Curious and Passionate Upcoming Data Analyst</h2>
 
 ###
 
@@ -14,11 +18,19 @@
 
 ###
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" align="center">
+</div>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+
+###
+
 <p align="left">🌱 I’m currently learning Python for Data Science (Pandas, NumPy, Matplotlib) - SQL for Data Analytics - R for Statistical Modeling - Machine Learning using Scikit-learn - Power BI & Tableau for Data Visualization<br><br>👯 I’m looking to collaborate on Open-source Data Analysis Projects,Building Machine Learning Models for Real-world HR/Marketing Data<br><br>💬 Ask me about Python for Beginners - Data Cleaning & Preprocessing - Visualizing Data with Matplotlib/Seaborn - HR Tech, Offboarding Insights, and Employer Branding<br><br>📫 How to reach me - vishnuskillx@gmail.com<br><br>⚡ Fun fact I'm a Gamer & I find patterns not just in data, but also in people 😉</p>
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
@@ -43,6 +55,8 @@
 
 ###
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -65,12 +79,15 @@
 
 ###
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 <div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR1Zm42YXhkbG9qMjVyY240eTZkaWI5N3Y1aW1iOGdpYjM2ZWg2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="600">
+  
 </div>
 
 ###
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph.svg">
