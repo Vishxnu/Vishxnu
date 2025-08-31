@@ -14,6 +14,7 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishxnu.Vishxnu&left_color=blueviolet&right_color=darksalmon"  />
+  <img src="https://img.shields.io/github/followers/Vishxnu?label=Followers&style=social" alt="GitHub followers"/>
 </div>
 
 ###
