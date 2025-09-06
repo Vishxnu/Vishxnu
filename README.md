@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500">
 </div>
 <br></br>
-<h1 align="center">Hey Everyone🙋‍♂️, I'm Vishnu Raj</h1>
+
 
 ###
 
