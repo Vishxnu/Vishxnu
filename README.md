@@ -62,9 +62,14 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/vishxnu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a><a href="https://x.com/Vishxnu_jr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/></a><a href="mailto:vishnuskillx@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a><a href="https://www.youtube.com/@MlfThamburan" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a>
+  <a href="https://www.linkedin.com/in/vishxnu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
+  <a href="https://x.com/Vishxnu_jr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/></a>
+  <a href="mailto:vishnuskillx@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
+  <a href="https://www.youtube.com/@MlfThamburan" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a>
+  <a href="https://www.kaggle.com/vishxnu" target="_blank"><img src="https://github.com/user-attachments/assets/aff1ee34-07fb-4e86-a58c-d557caedb731" width="52" height="40" alt="kaggle logo"/></a>
 
 </div>
+
 
 
 
