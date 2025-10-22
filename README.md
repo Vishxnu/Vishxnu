@@ -4,11 +4,9 @@
 <br></br>
 <h1 align="center">Hey Everyone🙋‍♂️, I'm Vishnu Raj</h1>
 
-###
-
-<h1 align="center">A Curious and Passionate Upcoming Data Analyst</h2>
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Curious+and+Passionate+Upcoming+Data+Analyst&font=Fira+Code&center=true&width=650&height=60" alt="Typing SVG" />
+</p>
 
 ###
 
