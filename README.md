@@ -1,101 +1,216 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500"/>
 </div>
-<br></br>
-<h1 align="center">Hey Everyone🙋‍♂️, I'm Vishnu Raj</h1>
+
+<br/>
+
+<h1 align="center">Hey Everyone 🙋‍♂️, I'm Vishnu Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Curious+and+Passionate+Upcoming+Data+Analyst&font=Fira+Code&center=true&width=650&height=60" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+Data+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+PostgreSQL;Turning+Data+into+Decisions+%F0%9F%93%8A;Currently+%40+LYFnGO+Technologies" alt="Typing SVG" />
 </p>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishxnu.Vishxnu&left_color=blueviolet&right_color=darksalmon"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishxnu.Vishxnu&left_color=blueviolet&right_color=darksalmon"/>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/Vishxnu?label=Followers&style=social" alt="GitHub followers"/>
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+---
+
+## 🧠 About Me
+
+```python
+vishnu = {
+    "role"       : "Business Analyst @ LYFnGO Technologies",
+    "education"  : ["MBA – HR & Business Analytics", "B.E – ECE"],
+    "location"   : "Coimbatore, Tamil Nadu 🇮🇳",
+    "tools"      : ["Python", "SQL", "Power BI", "Advanced Excel"],
+    "interests"  : ["Data Analysis", "Business Intelligence", "ML", "Agile"],
+    "fun_fact"   : "I find patterns not just in data, but also in people 😉",
+    "contact"    : "vishnuskillx@gmail.com"
+}
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+---
+
+## 💼 Experience
+
+| 🏢 Company | 🎯 Role | 📅 Duration |
+|---|---|---|
+| **LYFnGO Technologies** | Business Analyst (Intern) | Mar 2026 – Present |
+| **Careernet Technologies** | Executive – Talent Acquisition (Intern) | Jan 2025 – Jul 2025 |
+| **BYJU'S (Think & Learn)** | Exit Management (Intern) | Jun 2024 – Nov 2024 |
+| **ERP Roots Pvt. Ltd** | Junior SAP Basis Consultant | Aug 2022 – Aug 2023 |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Spotify Power BI Analytics</h3>
+      <p>A Spotify-themed analytics dashboard in Power BI showcasing artist trends, song popularity, and monthly insights.</p>
+      <a href="https://github.com/Vishxnu/Spotify-PowerBi-Analytics">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 Employee Attrition Analysis</h3>
+      <p>Deep-dive data analysis on employee attrition using Python, Pandas, and statistical tests to identify key churn drivers.</p>
+      <a href="https://github.com/Vishxnu/Employee-Attrition-Analysis">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦠 Liver Disease Prediction (ML)</h3>
+      <p>End-to-end ML project with SMOTE balancing, GridSearchCV tuning, and multi-model performance comparison. SVM (RBF) identified as best.</p>
+      <a href="https://github.com/Vishxnu/Liver-Disease-ML-Project">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏪 Superstore Sales Analysis</h3>
+      <p>Advanced Excel project with pivot tables, what-if analysis, dashboards, and business insights from Superstore Sales data.</p>
+      <a href="https://github.com/Vishxnu/Superstore-Sales-Analysis">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Life Expectancy Prediction</h3>
+      <p>Machine learning project predicting life expectancy using WHO data, featuring feature engineering and regression modeling.</p>
+      <a href="https://github.com/Vishxnu/Life-Expectancy-Prediction">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Global Salary & Career Trends</h3>
+      <p>Compensation trend analysis using Excel and SQL to generate structured reports supporting career decision-making.</p>
+      <a href="https://github.com/Vishxnu?tab=repositories">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" align="center">
-</div>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-###
+### 📊 Data & Analytics
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<p align="left">🌱 I’m currently learning Python for Data Science (Pandas, NumPy, Matplotlib) - SQL for Data Analytics - R for Statistical Modeling - Machine Learning using Scikit-learn - Power BI & Tableau for Data Visualization<br><br>👯 I’m looking to collaborate on Open-source Data Analysis Projects,Building Machine Learning Models for Real-world HR/Marketing Data<br><br>💬 Ask me about Python for Beginners - Data Cleaning & Preprocessing - Visualizing Data with Matplotlib/Seaborn - HR Tech, Offboarding Insights, and Employer Branding<br><br>📫 How to reach me - vishnuskillx@gmail.com<br><br>⚡ Fun fact I'm a Gamer & I find patterns not just in data, but also in people 😉</p>
+### 📈 BI & Visualization
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="13" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="60" alt="ssh logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
+### ⚙️ Tools & Platforms
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Zoho%20Sprints-E42527?style=for-the-badge&logo=zoho&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+---
+
+## 📜 Certifications
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/vishxnu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-  <a href="https://x.com/Vishxnu_jr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/></a>
-  <a href="mailto:vishnuskillx@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
-  <a href="https://www.youtube.com/@1Thamburan" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a>
-  <a href="https://www.kaggle.com/vishxnu" target="_blank"><img src="https://github.com/user-attachments/assets/aff1ee34-07fb-4e86-a58c-d557caedb731" width="52" height="40" alt="kaggle logo"/></a>
+| 🏆 Certification | 🏅 Issuer |
+|---|---|
+| Harnessing the Power of Data with Power BI | Microsoft |
+| Preparing Data for Analysis with Microsoft Excel | Microsoft |
+| Data Modeling in Power BI | Microsoft |
+| Data Analytics Job Simulation | Deloitte Australia × Forage |
+| Data Science Job Simulation | British Airways × Forage |
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
+---
 
-
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishxnu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishxnu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Vishxnu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Vishxnu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishxnu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishxnu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
 
-###
-
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="600">
-  
+  <img src="https://streak-stats.demolab.com?user=Vishxnu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Vishxnu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
+</div>
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vishxnu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Vishxnu_jr" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:vishnuskillx@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/vishxnu" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@1Thamburan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vishxnu/Vishxnu/output/pacman-contribution-graph.svg">
 </picture>
-
-###
