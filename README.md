@@ -24,13 +24,13 @@
 
 ```python
 vishnu = {
-    "role"       : "Business Analyst @ LYFnGO Technologies",
-    "education"  : ["MBA – HR & Business Analytics", "B.E – ECE"],
-    "location"   : "Coimbatore, Tamil Nadu 🇮🇳",
-    "tools"      : ["Python", "SQL", "Power BI", "Advanced Excel"],
-    "interests"  : ["Data Analysis", "Business Intelligence", "ML", "Agile"],
-    "fun_fact"   : "I find patterns not just in data, but also in people 😉",
-    "contact"    : "vishnuskillx@gmail.com"
+    "Role"       : "Business Analyst @ LYFnGO Technologies",
+    "Education"  : ["MBA – HR & Business Analytics", "B.E – ECE"],
+    "Location"   : "Coimbatore, Tamil Nadu 🇮🇳",
+    "Tools"      : ["Python", "SQL", "Power BI", "Advanced Excel"],
+    "Interests"  : ["Data Analysis", "Business Intelligence", "ML", "Agile"],
+    "Fun_fact"   : "I find patterns not just in data, but also in people 😉",
+    "Contact"    : "vishnuskillx@gmail.com"
 }
 ```
 
