@@ -24,7 +24,7 @@
 
 ```python
 vishnu = {
-    "Role"       : "Business Analyst @ LYFnGO Technologies",
+    "Role"       : "Associate Business Analyst @ LYFnGO Technologies",
     "Education"  : ["MBA – HR & Business Analytics", "B.E – ECE"],
     "Location"   : "Coimbatore, Tamil Nadu 🇮🇳",
     "Tools"      : ["Python", "SQL", "Power BI", "Advanced Excel"],
@@ -42,9 +42,8 @@ vishnu = {
 
 | 🏢 Company | 🎯 Role | 📅 Duration |
 |---|---|---|
-| **LYFnGO Technologies** | Business Analyst (Intern) | Mar 2026 – Present |
+| **LYFnGO Technologies** | Associate Business Analyst  | Mar 2026 – Present |
 | **Careernet Technologies** | Executive – Talent Acquisition (Intern) | Jan 2025 – Jul 2025 |
-| **BYJU'S (Think & Learn)** | Exit Management (Intern) | Jun 2024 – Nov 2024 |
 | **ERP Roots Pvt. Ltd** | Junior SAP Basis Consultant | Aug 2022 – Aug 2023 |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
