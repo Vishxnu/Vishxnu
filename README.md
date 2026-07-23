@@ -7,7 +7,7 @@
 <h1 align="center">Hey Everyone 🙋‍♂️, I'm Vishnu Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+Data+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+PostgreSQL;Turning+Data+into+Decisions+%F0%9F%93%8A;Currently+%40+LYFnGO+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Associate Business+Analyst+%7C+Data+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+PostgreSQL;Turning+Data+into+Decisions+%F0%9F%93%8A;Currently+%40+LYFnGO+Technologies" alt="Typing SVG" />
 </p>
 
 <div align="center">
